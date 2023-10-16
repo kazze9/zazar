@@ -1,0 +1,19 @@
+.btn {
+    padding: 30px;
+    min-width: 50%;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    font-family: cursive;
+    cursor: pointer;
+  }
+
+  .btn:hover,.btn:active {
+    background-color: gray;
+    color: black;
+  }
+  .cont {
+    display: flex;
+    gap: 5%;
+  }
